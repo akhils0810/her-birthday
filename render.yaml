@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: her-birthday
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: "."
